@@ -44,9 +44,9 @@ const Login = () => {
             or
           </span>
         </div>
-        <div className="flex flex-row justify-center text-sm text-slate-800 gap-2">
+        <div className="flex flex-row justify-center text-xs md:text-sm text-slate-800 gap-2">
           <h1>Don't you have an account?</h1>
-          <a href="#/" className=" font-medium text-blue-900">
+          <a href="#/" className="md:font-medium text-blue-900">
             Sing Up
           </a>
         </div>
